@@ -1,0 +1,22 @@
+# Compilación y distribución
+/build/
+/dist/
+
+# NetBeans: configuración local que no debe versionarse
+/nbproject/private/
+
+# Archivos generados automáticamente
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de otros IDEs
+/.idea/
+/*.iml
+/.vscode/
