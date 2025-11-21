@@ -1,5 +1,7 @@
 # Calculadora de Masa Muscular (IMC) en Java
 
+![Contributors](https://img.shields.io/badge/contributors-Carlos%20Luna%20%26%20Kevin%20Montilla-blue)
+
 Aplicación de escritorio desarrollada en Java que permite calcular el Índice de Masa Corporal (IMC) de un usuario basándose en su peso y altura. El sistema procesa los datos y clasifica automáticamente el estado de salud según los estándares internacionales.
 
 > **Nota:** Este proyecto fue generado utilizando el entorno de desarrollo (IDE) NetBeans, e incluye la estructura estándar de compilación.
