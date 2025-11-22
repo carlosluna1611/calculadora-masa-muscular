@@ -1,10 +1,10 @@
 # Calculadora de Masa Muscular (IMC) en Java
 
-![Contributors](https://img.shields.io/badge/contributors-Carlos%20Luna%20%26%20Kevin%20Montilla-blue)
-
 Aplicación de escritorio desarrollada en Java que permite calcular el Índice de Masa Corporal (IMC) de un usuario basándose en su peso y altura. El sistema procesa los datos y clasifica automáticamente el estado de salud según los estándares internacionales.
 
 > **Nota:** Este proyecto fue generado utilizando el entorno de desarrollo (IDE) NetBeans, e incluye la estructura estándar de compilación.
+
+<img src="graficos/Interfaz.gif" alt="Interfaz Principal" width="700"/>
 
 ## Funcionalidades
 
@@ -23,6 +23,7 @@ Aplicación de escritorio desarrollada en Java que permite calcular el Índice d
 calculadora-masa-muscular/
 ├── nbproject/       # Configuraciones del proyecto (NetBeans)
 ├── src/             # Código fuente (.java) y recursos gráficos
+├── screenshots/     # Capturas de pantalla para la documentación (README)
 ├── build.xml        # Script de construcción de Ant
 ├── manifest.mf      # Metadatos del archivo JAR
 └── README.md        # Documentación
@@ -30,6 +31,8 @@ calculadora-masa-muscular/
 
 ## Instrucciones de Ejecución
 Para correr este programa en tu computadora, necesitas tener instalado el JDK (Java Development Kit).
+
+<img src="graficos/Inicio.png" alt="Interfaz Inicial" width="700"/>
 
 ### Opción A: Desde un IDE (Recomendado)
 Abre NetBeans, IntelliJ o Eclipse.
@@ -48,6 +51,6 @@ Estado: 🟢 Finalizado.
 ## Autores
 
 <p style="font-size: 22px; font-family: 'Georgia', serif; line-height: 1.6;">
-  • <strong>Carlos Luna</strong><br>
-  • <strong>Kevin Montilla</strong>
+  • <strong><a href="https://github.com/kevinmontilla">Kevin Montilla</a></strong><br>
+  • <strong><a href="https://github.com/carlosluna1611">Carlos Luna</a></strong>
 </p>
